@@ -1,2 +1,2 @@
-# Sentimenal-Analysis-using-NLTK-in-Python
+# Sentimental-Analysis-using-NLTK-in-Python
 Sentimental Analysis is the study of people's opinions, sentiments and emotions. It determines the attitude of a person with regard to a topic or a product. To run any business well,it is necessary to know how the customers feel about your product. This is where the need of Sentimental Analysis comes in. To perform this project, I have used the Natural Language Toolkit (NLTK) and its VADER and Huggingface Roberta Transformers to classify the sentiment of amazon customer reviews. 
